@@ -1,0 +1,29 @@
+.logo_height{
+	max-height: 32px;
+}
+.border-left{
+	border-color: #eaeaea !important;
+	border-width: 2px !important;
+	height: 80%;
+}
+/* a标签 */
+.text-dark.a_hover:hover{
+	text-decoration: none;
+	color: #ED93CB !important;
+}
+.a_hover.active{
+	color: #FD77B2 !important;
+}
+.search_height{
+	max-width: 18px;
+}
+.img_height{
+	max-width: 100%;
+}
+.border-bottom{
+	border-bottom: 1px solid #ed93cb !important;
+}
+/* 星星图的大小 */
+.star_height{
+	max-height: 13px;
+}

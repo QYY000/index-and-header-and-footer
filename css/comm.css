@@ -1,0 +1,16 @@
+*{margin: 0;padding: 0;}
+
+.font_small{
+	font-size:12px ;
+}
+.font_middle{
+	font-size: 14px;
+}
+.logo_height{
+	max-height: 32px;
+}
+.a_hover.active{
+	color:#f06ca8 !important ;
+}
+.my_header{width: 100%;height: 80px;border: 0;}
+.my_footer{width: 100%;height: 80px;border: 0;}

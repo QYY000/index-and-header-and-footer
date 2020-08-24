@@ -1,0 +1,13 @@
+*{margin: 0;padding: 0;}
+/* img的大小 */
+.img_height{
+	max-width: 30px;
+}
+.search_height{
+	max-width: 18px;
+}
+.nav-item .a_hover:hover{
+	text-decoration: none;
+	color: #f06ca8 !important;
+	border-bottom: solid 0.5px #f06ca8;
+}
